@@ -718,6 +718,6 @@ if __name__ == '__main__':
 	print(C+'Lu make Tapi '+W+' Ga Follow Akun Gw komtol !'+C+' :V')
 	sleep(2)
 	os.system('clear')
-	os.system('xdg-open ')https://www.facebook.com/profile.php?id=100027700041268')
+	os.system('xdg-open https://www.facebook.com/profile.php?id=100027700041268')
 	sleep(7)
 	Spam()
