@@ -1,6 +1,6 @@
 #!/usr/bin/python2
-# Author : ./Sabila152
-# Team : Cyber Girl Indonesian( BCA - X666X )
+# Author : MR • GEMBOR
+# Team : Cyber PURBALINGGA DARKNET
 # Apa Liat Liat ? Mau Recode ? >_<
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
 
@@ -38,7 +38,7 @@ try:
 /\__/ / |_) | (_| | | | | | | /\__/ / | | | | \__ \\
 \____/| .__/ \__,_|_| |_| |_| \____/|_| |_| |_|___/
       | |                                          
-      |_|  '''+W+'Creator : ./Sabila\n\t\tYT : HackSael')
+      |_|  '''+W+'Creator : ./MR • GEMBOR\n\t\tYT : HackSael')
 
 	def MapClub(Phone, Amount):
 		for _ in range(Amount):
