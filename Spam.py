@@ -1,6 +1,6 @@
 #!/usr/bin/python2
-# Author : ./Sabila152
-# Team : Cyber Girl Indonesian( BCA - X666X )
+# Author : MR • GEMBOR
+# Team : Cyber Purbalingga Darknet
 # Apa Liat Liat ? Mau Recode ? >_<
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
 
@@ -38,7 +38,7 @@ try:
 /\__/ / |_) | (_| | | | | | | /\__/ / | | | | \__ \\
 \____/| .__/ \__,_|_| |_| |_| \____/|_| |_| |_|___/
       | |                                          
-      |_|  '''+W+'Creator : ./Sabila\n\t\tYT : HackSael')
+      |_|  '''+W+'Creator : ./MR GEMBOR\n\t\tYT : PRIVASJ')
 
 	def MapClub(Phone, Amount):
 		for _ in range(Amount):
@@ -715,9 +715,9 @@ except ImportError:
 	os.system('clear')
 	
 if __name__ == '__main__':
-	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
+	print(C+'Lu make Tapi '+W+' Ga Follow Akun Gw komtol !'+C+' :V')
 	sleep(2)
 	os.system('clear')
-	os.system('xdg-open https://www.youtube.com/channel/UCsX7NpPEK8a0T2MCJJQ4o7w')
+	os.system('xdg-open ')https://www.facebook.com/profile.php?id=100027700041268')
 	sleep(7)
 	Spam()
